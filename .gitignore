@@ -40,3 +40,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# screenshots (dev artifacts)
+screenshot*.png
